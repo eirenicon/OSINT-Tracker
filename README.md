@@ -4,4 +4,6 @@
 
 Status: Repository initialized as part of project roadmap. Full content coming soon.
 
+Next-Generation Strategic OSINT Tracking: Note information does not equal intelligence. Without giving meaning to the data we collect, open-source findings are simply raw data. It is after this information is looked at from a critical thinking mindset and analyzed that it becomes intelligence. 
+
 To learn more about the Ardens framework, visit: https://github.com/eirenicon/Ardens/wiki
